@@ -33,4 +33,4 @@ public class CustomEventExample : MonoBehaviour
 }
 ```
 
-Works great in the inspector: [http://i.imgur.com/aProeag.png](http://i.imgur.com/aProeag.png)
+![CustomEventExample Inpsector](http://i.imgur.com/aProeag.png "CustomEventExample Inpsector")
